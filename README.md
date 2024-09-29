@@ -3,7 +3,7 @@
 Control allocation refers to the method of distributing the desired forces and moments required by the vehicle to the control efforts in a system with redundant actuators.  
 
 This project reimplements the work proposed by R. Skulstad et. al 
-called “Constrained control allocation for dynamic ship positioning using deep neural network.” The paper introduces a novel approach for control allocation using deep neural 
+called [“Constrained control allocation for dynamic ship positioning using deep neural network.”](https://doi.org/10.1016/j.oceaneng.2023.114434) The paper introduces a novel approach for control allocation using deep neural 
 networks, specifically deep auto-encoders, and a custom loss function to ensure motion objectives and thruster constraints are satisified. 
 
 ## Dependencies
