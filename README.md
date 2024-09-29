@@ -6,6 +6,8 @@ This project reimplements the work proposed by R. Skulstad et. al
 called [“Constrained control allocation for dynamic ship positioning using deep neural network.”](https://doi.org/10.1016/j.oceaneng.2023.114434) The paper introduces a novel approach for control allocation using deep neural 
 networks, specifically deep auto-encoders, and a custom loss function to ensure motion objectives and thruster constraints are satisified. 
 
+The reimplemented work includes data generation, the custom loss functions, and the development of an autoencoder model using MLPs.
+
 ## Dependencies
 
 The dependencies for this project are included in the `requirements.txt` file.
